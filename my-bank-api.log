@@ -1,0 +1,5 @@
+2021-10-26T13:40:25.007Z [my-bank-api] info: API Started and File Created!
+2021-10-26T13:40:34.989Z [my-bank-api] error: ENOENT: no such file or directory, open '.data/accounts.json'
+2021-10-26T13:41:00.162Z [my-bank-api] error: ENOENT: no such file or directory, open '/home/esqb/dev/github/work-in-progress/trabalho-pratico-my-bank-api/.data/accounts.json'
+2021-10-26T13:41:30.109Z [my-bank-api] error: ENOENT: no such file or directory, open '/home/esqb/dev/github/work-in-progress/trabalho-pratico-my-bank-api/data/accounts.json'
+2021-10-26T13:41:35.568Z [my-bank-api] info: API Started!

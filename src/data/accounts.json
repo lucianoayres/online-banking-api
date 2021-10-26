@@ -1,0 +1,60 @@
+{
+  "nextId": 18,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Bernardo Alves",
+      "balance": 54321
+    },
+    {
+      "id": 2,
+      "name": "Maria dos Santos",
+      "balance": 1230
+    },
+    {
+      "id": 5,
+      "name": "José Silva",
+      "balance": 50000
+    },
+    {
+      "id": 6,
+      "name": "Diana Cunha",
+      "balance": 0
+    },
+    {
+      "id": 7,
+      "name": "João Silva",
+      "balance": 1300
+    },
+    {
+      "id": 9,
+      "name": "Joaquim Moraes",
+      "balance": 1300
+    },
+    {
+      "id": 10,
+      "name": "Roger Frazzato",
+      "balance": 4020.98
+    },
+    {
+      "id": 11,
+      "name": "Catarina Sobral",
+      "balance": 742.34
+    },
+    {
+      "id": 12,
+      "name": "Guilherme Assis",
+      "balance": 742.34
+    },
+    {
+      "id": 14,
+      "name": "Maurício Jr.",
+      "balance": 1300
+    },
+    {
+      "id": 17,
+      "name": "Mariana Sousa",
+      "balance": 1300
+    }
+  ]
+}
