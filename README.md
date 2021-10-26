@@ -1,9 +1,9 @@
 <br />
 <p align="center"><img src="https://user-images.githubusercontent.com/20209393/138801932-8c67180a-2772-4cfa-b38b-2eeb3c875b39.png" /></p>
 
-<h2 align="center">Proof of Concept (POC) for Delivery API in Node.JS</h2>
+<h2 align="center">Proof of Concept (POC) for Online Banking API in Node.JS</h2>
 
-Project created to study the fundamentals of a online bookstore API created with [Node.js](https://nodejs.org) and [Express framework](https://expressjs.com/).
+Project created to study the fundamentals of an online banking API created with [Node.js](https://nodejs.org) and [Express framework](https://expressjs.com/).
 
 ## Features
 
