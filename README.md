@@ -42,4 +42,4 @@ $ npm start
 
 ## License
 
-[MIT License](https://github.com/lucianoayres/bank-api/blob/main/LICENSE)
+[MIT License](https://github.com/lucianoayres/online-banking-api/blob/main/LICENSE)
