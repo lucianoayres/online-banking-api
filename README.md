@@ -1,5 +1,5 @@
 <br />
-<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138801932-8c67180a-2772-4cfa-b38b-2eeb3c875b39.png" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20209393/138898050-a176c2ce-fd6c-40e1-8d47-8eaa4a8aacfe.png" /></p>
 
 <h2 align="center">Proof of Concept (POC) for Online Banking API in Node.JS</h2>
 
