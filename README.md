@@ -21,7 +21,7 @@ Project created to study the fundamentals of an online banking API created with 
 Clone the project repository:
 
 ```sh
-$ git clone github.com/lucianoayres/bank-api.git
+$ git clone github.com/lucianoayres/online-banking-api.git
 ```
 
 ### Step 2
